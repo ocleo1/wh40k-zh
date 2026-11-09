@@ -1,0 +1,14 @@
+# Node.js dependencies
+node_modules/
+
+# VuePress temp / cache / build output
+src/.vuepress/.temp/
+src/.vuepress/.cache/
+src/.vuepress/dist/
+
+# Environment variables & logs
+.env
+.env.local
+*.log
+
+.DS_Store
