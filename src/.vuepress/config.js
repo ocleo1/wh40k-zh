@@ -10,7 +10,8 @@ module.exports = {
       { text: 'Volume I', link: '/volume1/' },
       { text: 'Volume II', link: '/volume2/' },
       { text: 'Volume III', link: '/volume3/' },
-      { text: 'Volume IV', link: '/volume4/' }
+      { text: 'Volume IV', link: '/volume4/' },
+      { text: 'GitHub', link: 'https://github.com/ocleo1/wh40k-zh' }
     ],
     sidebar
   },
