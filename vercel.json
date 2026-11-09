@@ -1,0 +1,10 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": "vuepress",
+  "buildCommand": "npm run build",
+  "outputDirectory": "src/.vuepress/dist",
+  "installCommand": "npm install",
+  "git": {
+    "deploymentEnabled": false
+  }
+}

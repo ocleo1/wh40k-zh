@@ -12,3 +12,6 @@ src/.vuepress/dist/
 *.log
 
 .DS_Store
+
+# Vercel CLI local project link
+.vercel
