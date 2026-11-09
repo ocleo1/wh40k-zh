@@ -1,0 +1,25 @@
+{
+  "name": "markdown-it-merge-cells",
+  "version": "1.0.1",
+  "description": "A markdown-it plugin to merge adjacent cells with same content in tables",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Menci",
+    "email": "huanghaorui301@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Menci/markdown-it-merge-cells.git"
+  },
+  "keywords": [
+    "markdown-it-plugin",
+    "markdown-it",
+    "markdown",
+    "table",
+    "merge cells"
+  ],
+  "dependencies": {
+    "babel-runtime": "^6.26.0"
+  }
+}

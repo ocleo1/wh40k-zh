@@ -1,0 +1,27 @@
+{
+  "name": "wh40k-zh",
+  "version": "0.1.0",
+  "description": "Warhammer 40,000 Chinese Resource Collection",
+  "private": true,
+  "author": {
+    "name": "Chris Wan",
+    "email": "wpy.christopher@gmail.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ocleo1/wh40k-zh.git"
+  },
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "engines": {
+    "node": ">=18",
+    "npm": ">=7"
+  },
+  "devDependencies": {
+    "iconv-lite": "^0.7.3",
+    "vuepress": "^1.9.10"
+  }
+}
